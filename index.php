@@ -8,5 +8,6 @@
     echo '<p>This is PHP!</p>';
     ?>
     <p>Hello From GitHub</p>
+    <p>Hello From Replit!</p>
   </body>
 </html>
